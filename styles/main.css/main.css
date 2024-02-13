@@ -44,3 +44,9 @@ body {
 a:hover {
   font-style: italic;
 }
+
+.shadow {
+    text-shadow: 2px 2px 4px #800000;
+  }
+
+  
