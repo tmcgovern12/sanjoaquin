@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    font-size: 100%;
+  }
+
+  main {
+    clear: both;
+  }
+
+  header img {
+    float: left;
+  }
+
+  main h1 {
+    font-size: 150%;
+  }
+
+  main h2 {
+    font-size: 130%;
+     color: #800000;
+  }
+
+  main h3 {
+    font-size: 105%;
+  }
+
+  header h2 {
+    font-size: 170%;
+    color: #800000;
+    padding-left: 30px;
+  }
+
+  main h3 {
+    font-size: 130%;
+    font-style: italic;
+    padding-left: 30px;
+  }
+
+  footer p {
+    text-align: center;
+  }
+
+  a:focus,
+a:hover {
+  font-style: italic;
+}
