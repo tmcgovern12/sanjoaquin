@@ -96,6 +96,10 @@ body {
     float: left;
   }
 
+main {
+  display: flex;
+}
+
   main h1 {
     font-size: 150%;
   }
